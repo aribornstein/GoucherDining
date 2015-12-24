@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.1">
+  <CommandSet xml:lang="en-us">
+    <CommandPrefix> Goucher Dining </CommandPrefix>
+
+    <Example> Is stimson open </Example>
+
+    <Command Name="isOpen">
+      <Example> Is stimson open</Example>
+      <ListenFor> Is {diningHall} open </ListenFor>
+      <Feedback> One Second!  </Feedback>
+      <Navigate Target="App.xaml"/>
+    </Command>
+
+    <PhraseList Label="diningHall">
+      <Item> Stimson </Item>
+      <Item> Heubeck </Item>
+      <Item> Kosher </Item>
+      <Item> Pearl Stone </Item>
+      <Item> The Van </Item>
+      <Item> Alice's </Item>
+    </PhraseList>
+
+  </CommandSet>
+
+  <!-- Other CommandSets for other languages -->
+
+</VoiceCommands>

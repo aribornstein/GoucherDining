@@ -1,0 +1,186 @@
+{"DiningHalls":[
+{
+    "Name":"Stimson","Menus":[
+        {"Date":"7/11/2014","MealType":"Breakfast","Open":"8:30","Close":"10:00","Entres":[
+                     {"Name":"Rasberrys","Station":"Fruit Bar","Calories":80},
+                     {"Name":"Strawberries","Station":"Fruit Bar","Calories":60},
+                     {"Name":"Pancakes","Station":"Main Plate","Calories":150},
+                     {"Name":"Jelly Donut","Station":"Main Plate","Calories":150},
+                     {"Name":"French Toast","Station":"Main Plate","Calories":200},
+                     {"Name":"Bacon","Station":"Roma","Calories":210},
+                     {"Name":"Waffle","Station":"Roma","Calories":130},
+                     {"Name":"Grits","Station":"Salad/Soup","Calories":150},
+                     {"Name":"Oatmeal","Station":"Salad/Soup","Calories":90},
+                     {"Name":"Honey Nut Cheerios","Station":"Cereal/Bagel","Calories":100},
+                     {"Name":"Trix","Station":"Cereal/Bagel","Calories":160},
+                     {"Name":"Seseame Bagel","Station":"Cereal/Bagel","Calories":160},
+                     {"Name":"Plain Bagel","Station":"Cereal/Bagel","Calories":130}
+
+                ]    
+        },
+
+        {"Date":"7/11/2014","MealType":"Lunch","Open":"11:00","Close":"14:00","Entres":[
+                     {"Name":"Cheese Burger","Station":"Build Your Own Burger","Calories":20},
+                     {"Name":"Salmon Rissotto","Station":"Roma","Calories":30},
+                     {"Name":"Chicken Pot Pie","Station":"Main Plate","Calories":150},
+                     {"Name":"Jelly Donut","Station":"Main Plate","Calories":150},
+                     {"Name":"Trix","Station":"Cereal/Bagel","Calories":160},
+                     {"Name":"Seseame Bagel","Station":"Cereal/Bagel","Calories":160},
+                     {"Name":"Plain Bagel","Station":"Cereal/Bagel","Calories":130},
+                     {"Name":"Miso Soup","Station":"Salad/Soup","Calories":150},
+                     {"Name":"Clam Chowder","Station":"Salad/Soup","Calories":90},
+                     {"Name":"Carrots","Station":"Salad","Calories":30}
+                ]    
+        },
+        {"Date":"7/11/2014","MealType":"Dinner","Open":"17:00","Close":"20:00","Entres":[
+                {"Name":"Cheese Pizza","Station":"Main Plate","Calories":20},
+                {"Name":"Romain Lettace","Station":"Salad","Calories":30}
+                ]    
+        }
+
+
+    ]
+ },
+{
+    "Name":"Heubeck","Menus":[
+
+        {"Date":"7/11/2014","MealType":"Lunch","Open":"11:00","Close":"14:00","Entres":[
+                     {"Name":"Cheese Burger","Station":"Build Your Own Burger","Calories":20},
+                     {"Name":"Salmon Rissotto","Station":"Roma","Calories":30},
+                     {"Name":"Chicken Pot Pie","Station":"Main Plate","Calories":150},
+                     {"Name":"Jelly Donut","Station":"Main Plate","Calories":150},
+                     {"Name":"Trix","Station":"Cereal/Bagel","Calories":160},
+                     {"Name":"Seseame Bagel","Station":"Cereal/Bagel","Calories":160},
+                     {"Name":"Plain Bagel","Station":"Cereal/Bagel","Calories":130},
+                     {"Name":"Miso Soup","Station":"Salad/Soup","Calories":150},
+                     {"Name":"Clam Chowder","Station":"Salad/Soup","Calories":90},
+                     {"Name":"Carrots","Station":"Salad","Calories":30}
+                ]    
+        },
+        {"Date":"7/11/2014","MealType":"Dinner","Open":"17:00","Close":"20:00","Entres":[
+                     {"Name":"Cheese Burger","Station":"Build Your Own Burger","Calories":20},
+                     {"Name":"Salmon Rissotto","Station":"Roma","Calories":30},
+                     {"Name":"Chicken Pot Pie","Station":"Main Plate","Calories":150},
+                     {"Name":"Jelly Donut","Station":"Main Plate","Calories":150},
+                     {"Name":"Trix","Station":"Cereal/Bagel","Calories":160},
+                     {"Name":"Seseame Bagel","Station":"Cereal/Bagel","Calories":160},
+                     {"Name":"Plain Bagel","Station":"Cereal/Bagel","Calories":130},
+                     {"Name":"Miso Soup","Station":"Salad/Soup","Calories":150},
+                     {"Name":"Clam Chowder","Station":"Salad/Soup","Calories":90},
+                     {"Name":"Carrots","Station":"Salad","Calories":30}
+                ]    
+        }
+   ]
+ },
+
+{
+    "Name":"P-Stone","Menus":[
+          {"Date":"7/11/2014","MealType":"Breakfast","Open":"8:00","Close":"10:00","Entres":[
+                     {"Name":"Entry1","Station":"Bagel","Calories":20},
+                     {"Name":"Entry2","Station":"Salad","Calories":30}
+                ]    
+        },
+
+        {"Date":"7/11/2014","MealType":"Lunch","Open":"11:00","Close":"17:00","Entres":[
+                     {"Name":"Cheese Burger","Station":"Build Your Own Burger","Calories":20},
+                     {"Name":"Salmon Rissotto","Station":"Roma","Calories":30},
+                     {"Name":"Chicken Pot Pie","Station":"Main Plate","Calories":150},
+                     {"Name":"Jelly Donut","Station":"Main Plate","Calories":150},
+                     {"Name":"Trix","Station":"Cereal/Bagel","Calories":160},
+                     {"Name":"Seseame Bagel","Station":"Cereal/Bagel","Calories":160},
+                     {"Name":"Plain Bagel","Station":"Cereal/Bagel","Calories":130},
+                     {"Name":"Miso Soup","Station":"Salad/Soup","Calories":150},
+                     {"Name":"Clam Chowder","Station":"Salad/Soup","Calories":90},
+                     {"Name":"Carrots","Station":"Salad","Calories":30}
+                ]    
+        },
+        {"Date":"7/11/2014","MealType":"Dinner","Open":"17:00","Close":"21:00","Entres":[
+                     {"Name":"Cheese Burger","Station":"Build Your Own Burger","Calories":20},
+                     {"Name":"Salmon Rissotto","Station":"Roma","Calories":30},
+                     {"Name":"Chicken Pot Pie","Station":"Main Plate","Calories":150},
+                     {"Name":"Jelly Donut","Station":"Main Plate","Calories":150},
+                     {"Name":"Trix","Station":"Cereal/Bagel","Calories":160},
+                     {"Name":"Seseame Bagel","Station":"Cereal/Bagel","Calories":160},
+                     {"Name":"Plain Bagel","Station":"Cereal/Bagel","Calories":130},
+                     {"Name":"Miso Soup","Station":"Salad/Soup","Calories":150},
+                     {"Name":"Clam Chowder","Station":"Salad/Soup","Calories":90},
+                     {"Name":"Carrots","Station":"Salad","Calories":30}
+                ]    
+        }
+      ]
+ },
+{
+    "Name":"Kosher","Menus":[
+    
+        {"Date":"7/11/2014","MealType":"Lunch","Open":"11:00","Close":"14:00","Entres":[
+                     {"Name":"Burger","Station":"Build Your Own Burger","Calories":20},
+                     {"Name":"Salmon Rissotto","Station":"Roma","Calories":30},
+                     {"Name":"Chicken Pot Pie","Station":"Main Plate","Calories":150},
+                     {"Name":"Jelly Donut","Station":"Main Plate","Calories":150},
+                     {"Name":"Trix","Station":"Cereal/Bagel","Calories":160},
+                     {"Name":"Seseame Bagel","Station":"Cereal/Bagel","Calories":160},
+                     {"Name":"Plain Bagel","Station":"Cereal/Bagel","Calories":130},
+                     {"Name":"Miso Soup","Station":"Salad/Soup","Calories":150},
+                     {"Name":"Matzah Ball Soup","Station":"Salad/Soup","Calories":90},
+                     {"Name":"Carrots","Station":"Salad","Calories":30}
+                ]    
+        },
+        {"Date":"7/11/2014","MealType":"Dinner","Open":"17:00","Close":"19:00","Entres":[
+                     {"Name":"Burger","Station":"Build Your Own Burger","Calories":20},
+                     {"Name":"Salmon Rissotto","Station":"Roma","Calories":30},
+                     {"Name":"Chicken Pot Pie","Station":"Main Plate","Calories":150},
+                     {"Name":"Jelly Donut","Station":"Main Plate","Calories":150},
+                     {"Name":"Trix","Station":"Cereal/Bagel","Calories":160},
+                     {"Name":"Seseame Bagel","Station":"Cereal/Bagel","Calories":160},
+                     {"Name":"Plain Bagel","Station":"Cereal/Bagel","Calories":130},
+                     {"Name":"Miso Soup","Station":"Salad/Soup","Calories":150},
+                     {"Name":"Matzah Ball Soup","Station":"Salad/Soup","Calories":90},
+                     {"Name":"Carrots","Station":"Salad","Calories":30}
+                ]    
+        }
+   ] },
+
+{
+   "Name":"The Van","Menus":[
+        {"Date":"7/11/2014","Open":"8:30","Close":"12:00","MealType":"Breakfast","Entres":[
+                     {"Name":"Sesame Bagel","Station":"Bagel","Calories":20},
+                     {"Name":"Mocha","Station":"Coffee","Calories":30}
+                ]    
+        },
+        {"Date":"7/11/2014","Open":"12:00","Close":"16:00","MealType":"","Entres":[
+                     {"Name":"Sesame Bagel","Station":"Bagel","Calories":20},
+                     {"Name":"Mocha","Station":"Coffee","Calories":30}
+                ]    
+        }
+
+   ]
+ },
+
+{"Name":"Alice's","Menus":[
+        {"Date":"7/11/2014","Open":"9:00","Close":"11:00","MealType":"Breakfast","Entres":[
+                     {"Name":"Sesame Bagel","Station":"Bagel","Calories":20},
+                     {"Name":"Mocha","Station":"Coffee","Calories":30}
+                ]  
+        },
+        {"Date":"7/11/2014","Open":"11:00","Close":"17:00","MealType":"Lunch","Entres":[
+                     {"Name":"Sesame Bagel","Station":"Bagel","Calories":20},
+                     {"Name":"Mocha","Station":"Coffee","Calories":30}
+                ]  
+        },
+        {"Date":"7/11/2014","Open":"21:00","Close":"23:59","MealType":"","Entres":[
+                     {"Name":"Sesame Bagel","Station":"Bagel","Calories":20},
+                     {"Name":"Mocha","Station":"Coffee","Calories":30}
+                ]  
+        },
+        {"Date":"7/11/2014","Open":"00:00","Close":"2:00","MealType":"","Entres":[
+                     {"Name":"Sesame Bagel","Station":"Bagel","Calories":20},
+                     {"Name":"Mocha","Station":"Coffee","Calories":30}
+                ]  
+        }
+
+
+
+ ]}
+
+]}
+

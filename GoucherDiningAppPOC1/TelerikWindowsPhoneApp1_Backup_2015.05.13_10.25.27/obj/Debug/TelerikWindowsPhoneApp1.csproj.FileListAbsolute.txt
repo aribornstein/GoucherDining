@@ -1,0 +1,6 @@
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\TelerikWindowsPhoneApp1\obj\Debug\App.g.cs
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\TelerikWindowsPhoneApp1\obj\Debug\About.g.cs
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\TelerikWindowsPhoneApp1\obj\Debug\MainPage.g.cs
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\TelerikWindowsPhoneApp1\obj\Debug\TelerikWindowsPhoneApp1.g.resources
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\TelerikWindowsPhoneApp1\obj\Debug\TelerikWindowsPhoneApp1.Resources.AppResources.resources
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\TelerikWindowsPhoneApp1\obj\Debug\TelerikWindowsPhoneApp1.csproj.GenerateResource.Cache

@@ -1,0 +1,59 @@
+{"DiningHalls":[
+{
+    "Name":"Stimson","Menus":[
+        {"Date":"7/10/2014","MealType":"Breakfast","Open":"8:00","Close":"12:00","Entres":[
+                     {"Name":"Entry1","Station":"Bagel","Calories":20},{"Name":"Entry2","Station":"Salad","Calories":30}
+                ]    
+        },
+
+        {"Date":"7/10/2014","MealType":"Lunch","Open":"11:00","Close":"14:00","Entres":[
+                     {"Name":"Entry1","Station":"Cereal","Calories":20},{"Name":"Entry2","Station":"Salad","Calories":30}
+                ]    
+        }
+
+    ]
+ },
+{
+    "Name":"Heubeck","Menus":[
+        {"Date":"7/10/2014","MealType":"Breakfast","Open":"8:00","Close":"10:00","Entres":[
+                     {"Name":"Entry1","Station":"Bagel","Calories":20},{"Name":"Entry2","Station":"Salad","Calories":30}
+                ]    
+        },
+
+        {"Date":"7/10/2014","MealType":"Lunch","Open":"10:20","Close":"14:00","Entres":[
+                     {"Name":"Entry1","Station":"Cereal","Calories":20},{"Name":"Entry2","Station":"Salad","Calories":30}
+                ]    
+        }
+    ]
+ },
+
+{
+    "Name":"P-Stone","Menus":[
+        {"Date":"7/10/2014","Open":"8:00","Close":"10:00","MealType":"","Entres":[
+                     {"Name":"Entry1","Station":"Burger","Calories":20},{"Name":"Entry2","Station":"Salad","Calories":30}
+                ]    
+    }]
+ },
+{
+    "Name":"Kosher","Menus":[
+        {"Date":"7/10/2014","Open":"8:00","Close":"10:00","MealType":"","Entres":[
+                     {"Name":"Entry1","Station":"Burger","Calories":20},{"Name":"Entry2","Station":"Salad","Calories":30}
+                ]    
+    }]
+ },
+
+{
+   "Name":"The Van","Menus":[
+        {"Date":"7/10/2014","Open":"8:00","Close":"10:00","MealType":"","Entres":[
+                     {"Name":"Entry1","Station":"Burger","Calories":20},{"Name":"Entry2","Station":"Salad","Calories":30}
+                ]    
+    }]
+ },
+
+{"Name":"Alice's","Menus":[
+        {"Date":"7/10/2014","Open":"8:00","Close":"10:00","MealType":"","Entres":[
+                     {"Name":"Entry1","Station":"Burger","Calories":20},{"Name":"Entry2","Station":"Salad","Calories":30}
+                ]  }]}
+
+]}
+

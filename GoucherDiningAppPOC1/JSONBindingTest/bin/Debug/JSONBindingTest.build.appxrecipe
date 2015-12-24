@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ABORNST-YOGA</Machine>
+    <WindowsUser>abornst</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3ccf103c-94f8-4128-9bc1-375b216c4742</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\JSONBindingTest\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\JSONBindingTest\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\JSONBindingTest\bin\Debug\JSONBindingTest.exe">
+      <PackagePath>JSONBindingTest.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\JSONBindingTest\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\JSONBindingTest\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\JSONBindingTest\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\JSONBindingTest\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\JSONBindingTest\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\JSONBindingTest\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\JSONBindingTest\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\JSONBindingTest\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\JSONBindingTest\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\JSONBindingTest\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\JSONBindingTest\bin\Debug\PivotPage.xbf">
+      <PackagePath>PivotPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\JSONBindingTest\bin\Debug\JSONBindingTest.xr.xml">
+      <PackagePath>JSONBindingTest.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\JSONBindingTest\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

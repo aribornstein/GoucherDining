@@ -1,0 +1,68 @@
+﻿<Page
+    x:Class="BasicCalorieCalc.app.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BasicCalorieCalc.app"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+        <TextBlock x:Uid="Header" Text="Calorie Calculator" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
+            <TextBlock Text="Daily Goal" Style="{ThemeResource HeaderTextBlockStyle}" Margin="0,0,0,26.5" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}" FontFamily="Global User Interface" />
+        <Grid >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="83*"/>
+                <ColumnDefinition Width="103*"/>
+                <ColumnDefinition Width="83*"/>
+                <ColumnDefinition Width="103*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0"/>
+                <RowDefinition Height="48*"/>
+                <RowDefinition Height="48*"/>
+                <RowDefinition Height="48*"/>
+                <RowDefinition Height="255*"/>
+            </Grid.RowDefinitions>
+            <TextBlock Text="Age" FontSize="25" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1"/>
+            <TextBox Name="age" PlaceholderText="Years" Width="89px" Grid.Row="1" Grid.Column="1" TextChanged="CalculateCalorieIntake" InputScope="Number" />
+            <TextBlock  Text="Weight" FontSize="25" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1" Grid.Column="2"/>
+            <TextBox Name="cWeight" PlaceholderText="Lbs" Width="89px" Grid.Row="1" Grid.Column="3" TextChanged="CalculateCalorieIntake" InputScope="Number"/>
+            <TextBlock Text="Feet" FontSize="25" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" />
+            <TextBox Name="feet"  PlaceholderText="0" Width="89px" Grid.Row="2" Grid.Column="1" TextChanged="CalculateCalorieIntake" InputScope="Number" />
+            <TextBlock Text="Inches" FontSize="25" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" Grid.Column="2"/>
+            <TextBox Name="inches" PlaceholderText="0"  Width="89px" Grid.Row="2" Grid.Column="3" TextChanged="CalculateCalorieIntake" InputScope="Number" />
+            <TextBlock Text="Goal Weight" FontSize="25" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="3" Grid.ColumnSpan="2" />
+            <TextBox  PlaceholderText="Lbs" Name="gWeight"  Width="178px" Grid.Row="3" Grid.Column="2" Grid.ColumnSpan="2" TextChanged="CalculateCalorieIntake" InputScope="Number" />
+            <StackPanel Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="5"  >
+                <ComboBox Name="activityLevel" PlaceholderText="Activity Level" Width="300px" SelectionChanged="CalculateCalorieIntake" >
+                    <ComboBoxItem Content="Hardly Active"/>
+                    <ComboBoxItem Content="Slightly Active"/>
+                    <ComboBoxItem Content="Moderately Active" />
+                    <ComboBoxItem Content="Very Active" />
+                    <ComboBoxItem Content="Extremely Active" />
+                </ComboBox>
+                <ToggleSwitch Name="gender" OnContent="Male" OffContent="Female" Width="300px" Toggled="CalculateCalorieIntake"/>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                    <TextBlock Text="Goal Date" Width="120px" FontSize="22" VerticalAlignment="Center"/>
+                    <DatePicker Name="gDate" Width="180px" DateChanged="CalculateCalorieIntake"  />
+                </StackPanel >
+                <Rectangle Height="30"/>
+                <TextBlock Name="calorieOutput" Text="Calorie Goal to be calculated." HorizontalAlignment="Center"  FontWeight="Bold" FontSize="20" TextWrapping="WrapWholeWords"/>
+            </StackPanel >
+
+        </Grid>
+    </StackPanel>
+
+    <Page.BottomAppBar>
+        <CommandBar>
+            <CommandBar.SecondaryCommands>
+                <AppBarButton Label="Change Background Color" Click="ChangeColor"/>
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+        
+    </Page.BottomAppBar>
+
+
+</Page>

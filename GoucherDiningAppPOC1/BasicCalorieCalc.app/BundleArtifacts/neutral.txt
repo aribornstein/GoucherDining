@@ -1,0 +1,4 @@
+MainPackage=C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\BasicCalorieCalc.app\bin\Release\BasicCalorieCalc.app_1.1.5.3_Bundle\BasicCalorieCalc.app_1.1.5.3_AnyCPU.appx
+SymbolPackage=C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\BasicCalorieCalc.app\AppPackages\BasicCalorieCalc.app_1.1.5.3_Test\BasicCalorieCalc.app_1.1.5.3_AnyCPU.appxsym
+ResourcePack=C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\BasicCalorieCalc.app\bin\Release\BasicCalorieCalc.app_1.1.5.3_Bundle\BasicCalorieCalc.app_1.1.5.3_scale-100.appx
+ResourcePack=C:\Users\abornst\Documents\Visual Studio 2013\Projects\GoucherDiningAppPOC1\BasicCalorieCalc.app\bin\Release\BasicCalorieCalc.app_1.1.5.3_Bundle\BasicCalorieCalc.app_1.1.5.3_scale-140.appx

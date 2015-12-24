@@ -1,0 +1,12 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\abornst\documents\visual studio 2013\projects\goucherdiningapppoc1\goucherdiningapppoc1\obj\release\intermediatexaml\goucherdiningapppoc1.exe" HashGuid="07ec1eaf-c652-10fa-eede-1ad5a163372d" />
+    <ReferenceAssembly PathName="c:\users\abornst\documents\visual studio 2013\projects\goucherdiningapppoc1\packages\windowsazure.mobileservices.1.2.3\lib\wpa81\microsoft.windowsazure.mobile.dll" HashGuid="34256b33-cc8e-2288-b763-2d97aff3ed18" />
+    <ReferenceAssembly PathName="c:\users\abornst\documents\visual studio 2013\projects\goucherdiningapppoc1\packages\windowsazure.mobileservices.1.2.3\lib\wpa81\microsoft.windowsazure.mobile.ext.dll" HashGuid="01dc9cf8-385c-1ece-6323-2a11c1d4ae11" />
+    <ReferenceAssembly PathName="c:\users\abornst\documents\visual studio 2013\projects\goucherdiningapppoc1\packages\newtonsoft.json.6.0.3\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="c79997c3-e7ec-c6d9-80a0-b6fbe9a32ff1" />
+    <ReferenceAssembly PathName="c:\users\abornst\documents\visual studio 2013\projects\goucherdiningapppoc1\packages\microsoft.net.http.2.2.19\lib\wpa81\system.net.http.extensions.dll" HashGuid="1d9d21be-6daa-468f-1b93-4e738d786e1b" />
+    <ReferenceAssembly PathName="c:\users\abornst\documents\visual studio 2013\projects\goucherdiningapppoc1\goucherdiningapppoc1\bin\release\telerik.universal.core.dll" HashGuid="e8e7c87a-610e-65a9-e67e-07cd63f384c3" />
+    <ReferenceAssembly PathName="c:\users\abornst\documents\visual studio 2013\projects\goucherdiningapppoc1\goucherdiningapppoc1\bin\release\telerik.universal.ui.xaml.chart.dll" HashGuid="bd366e65-83ce-9772-61be-dbd61886d6b8" />
+    <ReferenceAssembly PathName="c:\users\abornst\documents\visual studio 2013\projects\goucherdiningapppoc1\goucherdiningapppoc1\bin\release\telerik.universal.ui.xaml.primitives.dll" HashGuid="f38c77f7-fad9-805e-a66d-f1978d8f5704" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
